@@ -1,0 +1,15 @@
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\bin\Debug\net6.0\tmps.exe
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\bin\Debug\net6.0\tmps.deps.json
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\bin\Debug\net6.0\tmps.runtimeconfig.json
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\bin\Debug\net6.0\tmps.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\bin\Debug\net6.0\tmps.pdb
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.csproj.AssemblyReference.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.AssemblyInfoInputs.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.AssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.csproj.CoreCompileInputs.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\refint\tmps.dll
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.pdb
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\tmps.genruntimeconfig.cache
+D:\UNIVERSITATE\Semestrul 6\TMPS\Lab2\lab2Creational\lab1\obj\Debug\net6.0\ref\tmps.dll
